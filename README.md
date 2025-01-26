@@ -12,7 +12,7 @@ Tech Stack
 
 How to Use
 Clone the repo:
-git clone https://github.com/mhk2129/stylish-todo-list.git
+https://github.com/mehak2129/TOdOlist-MEHAK-WEBDEV-CampusCode.git
 
-git clone https://github.com/mhk2129/stylish-todo-list.git
+git clone https://github.com/mehak2129/TOdOlist-MEHAK-WEBDEV-CampusCode.git
 Open index.html in a browser.
